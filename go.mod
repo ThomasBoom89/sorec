@@ -3,13 +3,13 @@ module sonos-refurbished-checker
 go 1.20
 
 require (
-	github.com/getoutreach/goql v1.11.1
+	github.com/getoutreach/goql v1.11.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/spf13/cobra v1.7.0
 )
 
 require (
-	github.com/getoutreach/gobox v1.69.0 // indirect
+	github.com/getoutreach/gobox v1.71.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
